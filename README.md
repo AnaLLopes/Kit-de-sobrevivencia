@@ -1,5 +1,5 @@
 Comandos para compilar:
 ghc -o espaco espaço.hs
 
-Comando para rodar
+Comando para rodar:
 ./espaço
